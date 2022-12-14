@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="S1">ADD NOTES</string>
+    <string name="S2">Pinned Task</string>
+    <string name="S3">Title</string>
+    <string name="S4">Notes</string>
+    <string name="S5">Dates</string>
+</resources>
